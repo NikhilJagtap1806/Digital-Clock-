@@ -44,3 +44,15 @@ body {
     font-size: 1.5rem;
     font-weight: 600;
 }
+
+@media screen and (max-width:600) {
+ .clock{
+    max-width:300px;
+    padding: 5px;
+
+ }
+ .clock h1{
+    font-size: 3rem;
+ }
+    
+}
